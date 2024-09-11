@@ -2,7 +2,7 @@ import React from 'react'
 import Particle from './Particle'
 import TextEffect from './TextEffect'
 import Image from 'next/image'
-import hero from "../public/images/u1.jpg"
+import hero from "../public/images/about.jpg"
 import { FiArrowDownCircle } from "react-icons/fi";
 
 const Hero = () => {
